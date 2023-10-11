@@ -8,14 +8,16 @@
     <title>HOME</title>
 </head>
 <body>
+
     <nav>
         <div>
             <h1> Ciao {{$nome}} !</h1>
         </div>
-        
     </nav>
-
     <hr>
 
 </body>
 </html>
+
+
+
